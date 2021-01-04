@@ -1,0 +1,20 @@
+{
+  "name": "sydewalka-js",
+  "version": "1.0.0",
+  "description": "SydeWalKa site in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oyetunji Ibrahim Abiodun",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "qs": "^6.9.4",
+    "util": "^0.12.3"
+  }
+}
